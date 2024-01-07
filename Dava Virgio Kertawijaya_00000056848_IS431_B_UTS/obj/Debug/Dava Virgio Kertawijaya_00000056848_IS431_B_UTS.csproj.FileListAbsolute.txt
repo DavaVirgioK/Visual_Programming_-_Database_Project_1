@@ -1,0 +1,11 @@
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\bin\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.exe.config
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\bin\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.exe
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\bin\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.pdb
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.csproj.AssemblyReference.cache
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava_Virgio_Kertawijaya_00000056848_IS431_B_UTS.Form1.resources
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava_Virgio_Kertawijaya_00000056848_IS431_B_UTS.Properties.Resources.resources
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.csproj.GenerateResource.cache
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.csproj.CoreCompileInputs.cache
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.exe
+C:\Users\62812\source\repos\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS\obj\Debug\Dava Virgio Kertawijaya_00000056848_IS431_B_UTS.pdb
